@@ -1,0 +1,112 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/biancaunix/week1/Q2/contracts/HelloWorldVerifier.sol": {
+      "lastModificationDate": 1652084956268,
+      "contentHash": "2aea74670234e55d1564c6db8f44fac6",
+      "sourceName": "contracts/HelloWorldVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HelloWorldVerifier",
+        "Pairing"
+      ]
+    },
+    "/home/biancaunix/week1/Q2/contracts/Multiplier3Verifier.sol": {
+      "lastModificationDate": 1652084956268,
+      "contentHash": "b2a4fc78441b85d5e1bbb6c590787b37",
+      "sourceName": "contracts/Multiplier3Verifier.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Multiplier3Verifier",
+        "Pairing"
+      ]
+    },
+    "/home/biancaunix/week1/Q2/contracts/_plonkMultiplier3.sol": {
+      "lastModificationDate": 1652114869906,
+      "contentHash": "5e080a1efbf6bffea0ad2ad385af44aa",
+      "sourceName": "contracts/_plonkMultiplier3.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "PlonkVerifier"
+      ]
+    }
+  }
+}
